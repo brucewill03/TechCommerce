@@ -37,7 +37,8 @@ This application was created to be used on the back end for ecommerce. Express.j
 This application will allow users to view, add, edit, and delete categories, products, and tags. 
 
  # Walkthrough video covers MySQL shell
-   
+   ![TechCommerce](https://user-images.githubusercontent.com/92745609/155894572-1f5aadd8-b6d7-4e56-b6fe-ba7e7e276e08.gif)
+
 
 
 ## Tests
